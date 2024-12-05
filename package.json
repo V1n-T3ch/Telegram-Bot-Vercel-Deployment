@@ -1,13 +1,17 @@
 {
-  "name": "telegram-bot",
+  "name": "tbot",
   "version": "1.0.0",
-  "main": "api/bot.js",
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "node-fetch": "^3.3.1",
-    "axios": "^1.4.0"
-  },
+  "main": "index.js",
   "scripts": {
-    "start": "vercel dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2"
   }
 }
