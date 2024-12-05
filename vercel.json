@@ -1,7 +1,3 @@
 {
   "version": 2,
-  "env": {
-    "TELEGRAM_BOT_TOKEN": "@telegram-bot-token",
-    "FORWARD_CHAT_IDS": "@forward-chat-ids"
-  }
 }
